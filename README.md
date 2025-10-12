@@ -1,16 +1,30 @@
-## Hi there 👋
+🌟 MOEUAED – My Web Development Journey 🌟
 
-<!--
-**MOEUAED/MOEUAED** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Welcome to Mouad’s world of code — where creativity meets logic, and every line I write builds something meaningful.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 About Me
+I’m a passionate web development student at [YouCode], driven by curiosity and the power of creation.
+Every project I build is a reflection of growth, imagination, and the desire to bring ideas to life through clean, elegant code.
+
+🛠️ Tech Stack I Work With
+
+HTML5 – The structure of my digital imagination
+
+CSS3 – The colors and style that bring life to my ideas
+
+Bootstrap – The framework that shapes beauty with simplicity
+
+PHP – The brain behind the interaction
+
+SQL – The memory that never forgets
+
+🚀 My Vision
+To become not just a developer, but a creator of digital experiences — building interfaces that feel alive, responsive, and full of personality.
+
+✨ Philosophy
+
+“Code is not just what I do — it’s how I express creativity, solve problems, and turn ideas into reality.”
+
+🌐 Stay tuned
+This repository is more than just code — it’s a story in progress, a path toward mastery, and a spark of inspiration for anyone who loves building for the web.
