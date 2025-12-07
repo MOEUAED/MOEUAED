@@ -1,6 +1,5 @@
 🌟 MOEUAED – My Web Development Journey 🌟
 
-
 Welcome to Mouad’s world of code — where creativity meets logic, and every line I write builds something meaningful.
 
 💻 About Me
@@ -15,6 +14,10 @@ CSS3 – The colors and style that bring life to my ideas
 
 Bootstrap – The framework that shapes beauty with simplicity
 
+Tailwind CSS – The utility-first toolkit that gives me full creative control
+
+JavaScript – The interactivity that adds life to my projects
+
 PHP – The brain behind the interaction
 
 SQL – The memory that never forgets
@@ -23,7 +26,6 @@ SQL – The memory that never forgets
 To become not just a developer, but a creator of digital experiences — building interfaces that feel alive, responsive, and full of personality.
 
 ✨ Philosophy
-
 “Code is not just what I do — it’s how I express creativity, solve problems, and turn ideas into reality.”
 
 🌐 Stay tuned
